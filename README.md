@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o João Vitor! 👋
 
-<!--
-**jvluzc/jvluzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia e qualidade de software! 💻🚀
 
-Here are some ideas to get you started:
+- 🌟 Atualmente estudando **Testes de WEB**, **Testes de API**, **Testes Mobile** e **Ferramentas de Testes e Qualidade de Softwares**.
+- 🛠️ Experiência com **GitHub Actions**, **CI/CD** e automação de testes.
+- 📚 Sempre em busca de aprender e compartilhar conhecimento.
+- 🎮 Amo jogar games e assistir séries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Ferramentas e Tecnologias:
+- **Linguagens**: Java, JavaScript, Python.
+- **Feramentas**: Selenium, Cypress, Robot Framework, Postman, RestAssured.
+- **Banco de Dados**: MySQL, PostgreSQL.
+- **CI/CD**: GitHub Actions/ Pages.
+- **Versionamento**: Git.
+
+## 🌐 Como me encontrar:
+- LinkedIn: https://www.linkedin.com/in/joao-vitor-luz-condidorio
+- E-mail: joaovitorluz010@gmail.com
+- WhatsApp: ([+55 11954264090](https://api.whatsapp.com/send/?phone=5511954264090&text&type=phone_number&app_absent=0))
+
