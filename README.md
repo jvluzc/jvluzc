@@ -9,7 +9,7 @@ Sou apaixonado por tecnologia e qualidade de software! 💻🚀
 
 ## 🛠️ Ferramentas e Tecnologias:
 - **Linguagens**: Java, JavaScript, Python.
-- **Feramentas**: Selenium, Cypress, Robot Framework, Postman, RestAssured.
+- **Ferramentas**: Selenium, Cypress, Robot Framework, Postman, RestAssured.
 - **Banco de Dados**: MySQL, PostgreSQL.
 - **CI/CD**: GitHub Actions/ Pages.
 - **Versionamento**: Git.
