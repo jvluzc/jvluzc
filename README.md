@@ -1,4 +1,4 @@
-# Olá, eu sou o João Vitor! 👋
+# Olá, eu sou o João! 👋
 
 Sou apaixonado por tecnologia e qualidade de software! 💻🚀
 
