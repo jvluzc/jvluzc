@@ -19,6 +19,11 @@ Sou apaixonado por tecnologia e qualidade de software! 💻🚀
 - **Versionamento**: 
   - Git.
 
+## 🎓 Certificações:
+  - Certificação internacional em testes de software CTFL (Certified Tester Foundation Level) - ISTQB/BSTQB
+  - Certificação internacional em testes de software com inteligência Artificial CT-AI (Certified Tester AI Testing) - ISTQB/BSTQB
+  - Accredited SCRUM Fundamentals Certification (AICS® ASFC)
+
 ## 🌐 Como me encontrar:
 - LinkedIn: https://www.linkedin.com/in/joao-vitor-luz-condidorio
 - 📧 E-mail: [joaovitorluz010@gmail.com](mailto:joaovitorluz010@gmail.com)
