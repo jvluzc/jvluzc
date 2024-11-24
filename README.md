@@ -2,7 +2,7 @@
 
 Sou apaixonado por tecnologia e qualidade de software! 💻🚀
 
-- 🌟 Atualmente sou pós-graduando em **Engenharia de Software com Ênfase em Qualidade e Testes de Software**.
+- 🌟 Atualmente sou pós-graduando em **Engenharia de Software com Ênfase em Testes e Qualidade de Software**.
 - 🛠️ Experiência com **Testes de Software**, **Métodos Ágeis**, **Testes de Interface**, **Testes de API**, **Testes de Performance** e **Pipelines de CI/CD**.
 - 📚 Sempre em busca de aprender e compartilhar conhecimento.
 - 🎮 Amo jogar games e assistir séries.
